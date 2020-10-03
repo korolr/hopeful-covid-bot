@@ -103,7 +103,12 @@ const data = [
       text: "🚸 CNN and @sesamestreet host a townhall for families about navigating the back-to-school season during a pandemic",
       link: "https://edition.cnn.com/2020/09/12/us/sesame-street-cnn-town-hall-coronavirus-parents-trnd/index.html",
       source: "@CNN"
-    }
+    }, 
+    {
+      text: "📈 Coronavirus trend: The pandemic is far from over",
+      link: "https://www.dw.com/en/coronavirus-global-pandemic-trend/a-53954594",
+      source: "dwnews"
+    }, 
   ];
 
 exports.data = data;
